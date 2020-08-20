@@ -117,7 +117,7 @@ class _HomeState extends State<Home> {
                       ),
                     ),
                   ),
-                  SizedBox(height: 20,),
+                  SizedBox(height: 22,),
                   Expanded(
                     child: GridView.count(
                       crossAxisCount: 2,
