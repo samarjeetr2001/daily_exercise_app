@@ -39,7 +39,7 @@ class _HomeState extends State<Home> {
               mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: <Widget>[
                 Icon(Icons.line_weight,color: Colors.grey,),
-                Text("Weight")
+                Text("Weights")
               ],
             ),
              Column(
